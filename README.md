@@ -29,5 +29,5 @@ Laxmi K Parajuli et al., In revision.
 
 2020/8/8
 
-Contanct for the programs: hurakubo@gmail.com
+Contact regarding the programs: hurakubo@gmail.com
 
