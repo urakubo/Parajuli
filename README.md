@@ -1,4 +1,3 @@
-# Parajuli
 # Geometry and the placement of spine synapses along a dendrite
 
 ![System requirements](https://img.shields.io/badge/platform-matlab2019a%20or%20newer-green.svg)
