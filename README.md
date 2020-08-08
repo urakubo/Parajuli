@@ -7,7 +7,7 @@
 
 ## System requirements
 
-Matlab 2019a. You can accelerate the simulations with the Parallel Computing Toolbox. 
+Matlab 2019a. You can accelerate simulations by using the Parallel Computing Toolbox. 
 
 ## Installation
 
