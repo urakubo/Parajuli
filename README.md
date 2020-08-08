@@ -16,7 +16,7 @@ Matlab 2019a. You can accelerate the simulations with the Parallel Computing Too
 	- git clone https://github.com/urakubo/Parajuli.git
 
 2. Execute exec_sim_dend.m, exec_sim_dend_nonuniform.m, exec_sim_soma.m, and exec_calc_dend_mi.m. 
- Then you can see the graphs by executing exec_plot_weight.m, exec_plot_dend_mi.m, and exec_plot_soma.m. 
+ Then you can see graphs by executing exec_plot_weight.m, exec_plot_dend_mi.m, and exec_plot_soma.m. 
 
 ## License
 
