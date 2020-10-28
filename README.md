@@ -1,4 +1,4 @@
-# Geometry and the placement of spine synapses along a dendrite
+# Geometry and the organizational principle of spine synapses along a dendrite
 
 ![System requirements](https://img.shields.io/badge/platform-matlab2019a%20or%20newer-green.svg)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/urakubo/Parajuli/blob/master/LICENSE)
