@@ -23,7 +23,7 @@ Matlab 2019a. You can accelerate simulations by using the Parallel Computing Too
 This project is licensed under the MIT license - see the [LICENSE](LICENSE) file for details.
 
 ## Reference
-Geometry and the placement of spine synapses along a dendrite
+Geometry and the organizational principle of spine synapses along a dendrite
 
 Laxmi K Parajuli, Hidetoshi Urakubo, Ai Takahashi-Nakazato, Roberto Ogelman, Hirohide Iwasaki, Masato Koike, Hyung-Bae Kwon, Shin Ishii, Won Chan Oh, Yugo Fukazawa, and Shigeo Okabe, In revision.
 
