@@ -25,7 +25,7 @@ This project is licensed under the MIT license - see the [LICENSE](LICENSE) file
 ## Reference
 Geometry and the organizational principle of spine synapses along a dendrite
 
-Laxmi K Parajuli, Hidetoshi Urakubo, Ai Takahashi-Nakazato, Roberto Ogelman, Hirohide Iwasaki, Masato Koike, Hyung-Bae Kwon, Shin Ishii, Won Chan Oh, Yugo Fukazawa, and Shigeo Okabe, In revision.
+Laxmi K Parajuli, Hidetoshi Urakubo, Ai Takahashi-Nakazato, Roberto Ogelman, Hirohide Iwasaki, Masato Koike, Hyung-Bae Kwon, Shin Ishii, Won Chan Oh, Yugo Fukazawa, and Shigeo Okabe; eNeuro 2020, 10.1523/ENEURO.0248-20.2020.
 
 2020/8/8
 
