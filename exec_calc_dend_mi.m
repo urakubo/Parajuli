@@ -1,7 +1,7 @@
 
 %%%
 %%%
-function exec_calc_mi
+function exec_calc_dend_mi
 %%%
 %%%
 	addpath('./subs');
